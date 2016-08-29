@@ -1,0 +1,1 @@
+# Start-registry-v2-script.1.0
