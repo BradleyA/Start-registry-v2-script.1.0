@@ -7,6 +7,9 @@ I have been using this for over a year and just now uploading it.  I need to com
 
 I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
 
+#### If you like this repository, select in the upper-right corner, star, thank you.
+#### To watch future updates in this repository select in the upper-right corner, the "Watch" list, and select Watching.
+
 ## License
 MIT License
 
