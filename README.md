@@ -10,6 +10,20 @@ I have been using some of these for days, months, or years and just now uploadin
 #### If you like this repository, select in the upper-right corner, star, thank you.
 #### To watch future updates in this repository select in the upper-right corner, the "Watch" list, and select Watching.
 
+#### Author
+[<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
+](https://twitter.com/bradleyaustintx/)   [<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">
+](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen)
+
+#### System OS script tested
+ * Ubuntu 14.04.3 LTS
+ * Ubuntu 16.04.5 LTS (armv7l)
+
+#### Design Principles
+ * Have a simple setup process and a minimal learning curve
+ * Be usable as non-root
+ * Be easy to install and configure
+
 ## License
 MIT License
 
