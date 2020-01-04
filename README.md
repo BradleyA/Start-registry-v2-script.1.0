@@ -12,8 +12,8 @@ I have been using some of these for days, months, or years and just now uploadin
 #### ARCHITECTURE TREE
 
 #### Traffic
-  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=14&color=blue">  [Clones Table](images/clone.table.md)
-  * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=11&color=blue">  [Views Table](images/view.table.md)
+  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=6&color=blue">  [Clones Table](images/clone.table.md)
+  * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=8&color=blue">  [Views Table](images/view.table.md)
 
 #### Author
 [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
