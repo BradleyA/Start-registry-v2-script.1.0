@@ -1,4 +1,7 @@
 # Start-registry-v2-script.1.0
+[![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
+[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=6&color=blue">](images/clone.table.md)
+[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=8&color=blue">](images/view.table.md)
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
@@ -10,10 +13,6 @@ I have been using some of these for days, months, or years and just now uploadin
 #### If you like this repository, select in the upper-right corner, star, thank you.
 
 #### ARCHITECTURE TREE
-
-#### Traffic
-  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=6&color=blue">  [Clones Table](images/clone.table.md)
-  * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=8&color=blue">  [Views Table](images/view.table.md)
 
 #### Author
 [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
