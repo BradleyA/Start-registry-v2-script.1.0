@@ -4,7 +4,7 @@ Date:		    |     01-06   |  02-17  |  03-09  |  03-23
 Clones:		  |            1       |  1      |  1      |  1
 Unique   clones: |       1  |      1  |      1  |      1
 
-Total clones: 10
+Total clones: 4
 ###### Updated: 2020-04-11
 
 #### 2019 GitHub clones
