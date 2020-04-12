@@ -4,7 +4,7 @@ Date:		     |          01-06  |  02-03
 Views:		      |       1      |    2
 Unique  vistors:  |     1      |    1
 
-Total views: 22
+Total views: 3
 ###### Updated: 2020-04-11
 
 
@@ -14,7 +14,7 @@ Date:   |          08-05 |   12-30
 Views:  |            8   |    19  
 Unique  vistors:  |  1   |     1   
 
-Total views: 8
+Total views: 27
 ###### Updated: 2020-01-04
 
 [Return to README](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#Start-registry-v2-script.1.0)
