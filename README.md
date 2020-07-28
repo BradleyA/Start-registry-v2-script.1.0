@@ -1,7 +1,7 @@
 # Start-registry-v2-script.1.0
 [![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
 [<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=36&color=blue">](images/clone.table.md)
-[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=87&color=blue">](images/view.table.md)
+[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=124&color=blue">](images/view.table.md)
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
