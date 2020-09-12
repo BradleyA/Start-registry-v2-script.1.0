@@ -3,9 +3,9 @@
 [<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=36&color=blue">](images/clone.table.md)
 [<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=124&color=blue">](images/view.table.md)
 
-[![GitHub Stable Release](https://img.shields.io/badge/Release-v2.2-blue.svg)](https://github.com/BradleyA/Start-registry-v2-script.1.0/releases/tag/v2.2)
+[![GitHub Stable Release](https://img.shields.io/badge/Release-0.0-blue.svg)](https://github.com/BradleyA/Start-registry-v2-script.1.0/releases/tag/0.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/Start-registry-v2-script.1.0?color=blue)
-[![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/Start-registry-v2-script.1.0/v2.2?color=orange)](https://github.com/BradleyA/Start-registry-v2-script.1.0/commits/)
+[![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/Start-registry-v2-script.1.0/0.0?color=orange)](https://github.com/BradleyA/Start-registry-v2-script.1.0/commits/)
 [![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/Start-registry-v2-script.1.0.svg)](https://github.com/BradleyA/Start-registry-v2-script.1.0/commits/)
 
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/Start-registry-v2-script.1.0?color=purple)](https://github.com/BradleyA/Start-registry-v2-script.1.0/issues?q=is%3Aopen+is%3Aissue)
