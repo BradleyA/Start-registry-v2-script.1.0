@@ -9,7 +9,7 @@
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=36&color=blueviolet">](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/images/clone.table.md)
 [<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=124&color=blueviolet">](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/Start-registry-v2-script.1.0.svg)](https://github.com/BradleyA/Start-registry-v2-script.1.0/)
-![Written in Bash](https://img.shields.io/badge/written%20in-bash-blue.svg)
+![Language Bash](https://img.shields.io/badge/%20Language-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
 
 ----
