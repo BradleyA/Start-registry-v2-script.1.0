@@ -24,7 +24,7 @@ I have been using this for over a year and just now uploading it.  I need to com
 
 I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
 
-#### If you like this repository, select in the upper-right corner, star, thank you.
+#### If you like this repository, select in the upper-right corner, [![GitHub stars](https://img.shields.io/github/stars/BradleyA/Start-registry-v2-script.1.0.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/BradleyA/Start-registry-v2-script.1.0/stargazers/), thank you.
 
 #### ARCHITECTURE TREE
 
