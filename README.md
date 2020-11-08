@@ -27,14 +27,31 @@ I have been using some of these for days, months, or years and just now uploadin
 
 #### If you like this repository, select in the upper-right corner, [![GitHub stars](https://img.shields.io/github/stars/BradleyA/Start-registry-v2-script.1.0.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/BradleyA/Start-registry-v2-script.1.0/stargazers/), thank you.
 
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
+
 #### ARCHITECTURE TREE
 
-#### Author
-[<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen) [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">](https://twitter.com/bradleyaustintx/)       <a href="https://twitter.com/intent/follow?screen_name=bradleyaustintx"> <img src="https://img.shields.io/twitter/follow/bradleyaustintx.svg?label=Follow%20@bradleyaustintx" alt="Follow @bradleyaustintx" />    </a>
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
 
-#### System OS script tested
- * Ubuntu 14.04.3 LTS (amd64,armv7l)
- * Ubuntu 16.04.5 LTS (armv7l)
+----
+
+#### Contribute
+Please do contribute!  Issues and pull requests are welcome.  Thank you for your help improving software.
+
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
+
+#### Author
+[<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen) [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">](https://twitter.com/bradleyaustintx/)       <a href="https://twitter.com/intent/follow?screen_name=bradleyaustintx"> <img src="https://img.shields.io/twitter/follow/bradleyaustintx.svg?label=Follow%20@bradleyaustintx" alt="Follow @bradleyaustintx" />    </a>          [![GitHub followers](https://img.shields.io/github/followers/BradleyA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BradleyA?tab=followers)
+
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
+
+#### Tested OS
+ * Ubuntu 14.04.6 LTS (amd64,armv7l)
+ * Ubuntu 16.04.7 LTS (amd64,armv7l)
+ * Ubuntu 18.04.5 LTS (amd64,armv7l)
+ * Raspbian GNU/Linux 10 (buster)
+
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
 
 #### Design Principles
  * Have a simple setup process and a minimal learning curve
@@ -51,3 +68,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
