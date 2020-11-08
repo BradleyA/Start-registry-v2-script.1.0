@@ -58,6 +58,8 @@ Please do contribute!  Issues and pull requests are welcome.  Thank you for your
  * Be usable as non-root
  * Be easy to install and configure
 
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
+
 #### License
 MIT License
 
