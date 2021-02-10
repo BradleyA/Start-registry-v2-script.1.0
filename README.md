@@ -46,12 +46,12 @@ Please do contribute!  Issues and pull requests are welcome.  Thank you for your
 [Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
 
 #### Stars
-[![Stargazers repo roster for @BradleyA/XXXXX](https://reporoster.com/stars/BradleyA/XXXXX)](https://github.com/BradleyA/XXXXX/stargazers)
+[![Stargazers repo roster for @BradleyA/Start-registry-v2-script.1.0](https://reporoster.com/stars/BradleyA/Start-registry-v2-script.1.0)](https://github.com/BradleyA/Start-registry-v2-script.1.0/stargazers)
 
-[Return to top](https://github.com/BradleyA/XXXXX/blob/master/README.md#XXXXX)
+[Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#Start-registry-v2-script.1.0)
 
 #### Forks
-[![Forkers repo roster for @BradleyA/XXXXX](https://reporoster.com/forks/BradleyA/XXXXX)](https://github.com/BradleyA/XXXXX/network/members)
+[![Forkers repo roster for @BradleyA/Start-registry-v2-script.1.0](https://reporoster.com/forks/BradleyA/Start-registry-v2-script.1.0)](https://github.com/BradleyA/Start-registry-v2-script.1.0/network/members)
 
 [Return to top](https://github.com/BradleyA/XXXXX/blob/master/README.md#XXXXX)
 
