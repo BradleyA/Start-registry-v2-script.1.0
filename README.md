@@ -38,7 +38,7 @@ I have been using some of these for days, months, or years and just now uploadin
 ----
 
 #### Contribute
-Please do contribute!  Issues and pull requests are welcome.  Thank you for your help improving software.
+Please do contribute!  Issues, comments, and pull requests are welcome.  Thank you for your help improving software.
 
 [Return to top](https://github.com/BradleyA/Start-registry-v2-script.1.0/blob/master/README.md#start-registry-v2-script10--)
 
